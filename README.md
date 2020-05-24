@@ -1,4 +1,4 @@
-# TFG_Informatica
+# TFG Informatica
 Este repositorio tiene un trabajo sobre prediccion de valores bursátiles mediante una red recuerrente LSTM.
 Trabajo hecho en el 2020.
 
